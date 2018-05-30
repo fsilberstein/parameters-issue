@@ -1,0 +1,5 @@
+APP_PORT = 8080
+ELASTIC_INDEX = "money"
+ELASTIC_SNIFF=false
+ELASTIC_HOST="http://localhost:9200"
+ELASTIC_DEBUG=true
